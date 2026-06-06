@@ -38,6 +38,8 @@
 
 ## Python
 
+*   [AlexxIT/XiaomiGateway3](https://github.com/AlexxIT/XiaomiGateway3) - Home Assistant custom component for control Xiaomi Multimode Gateway (aka Gateway 3), Xiaomi Multimode Gateway 2, Aqara Hub E1 on default firmwares over LAN
+
 *   [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 
 *   [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
@@ -832,8 +834,6 @@
 
 *   [archive-chan/CustomReminder](https://github.com/archive-chan/CustomReminder) - 根据自定义预设的内容进行倒计时,倒计时结束后发出Toast通知
 
-*   [KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display) - Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。
-
 *   [anhkgg/SuperRDP](https://github.com/anhkgg/SuperRDP) - Super RDPWrap
 
 *   [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights) - 《明日方舟》小助手，全日常一键长草！| A one-click tool for the daily tasks of Arknights, supporting all clients.
@@ -922,6 +922,8 @@
 
 *   [amtoaer/bili-sync](https://github.com/amtoaer/bili-sync) - 由 Rust & Tokio 驱动的哔哩哔哩同步工具
 
+*   [KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display) - Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。
+
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 
 ## C\#
@@ -1009,8 +1011,6 @@
 *   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 
 *   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
 
 ## Dart
 
