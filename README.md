@@ -2,6 +2,7 @@
 
 ## Table of Contents
 
+*   [C#](#c)
 *   [Python](#python)
 *   [Swift](#swift)
 *   [Erlang](#erlang)
@@ -10,9 +11,8 @@
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
-*   [C++](#c)
+*   [C++](#c-1)
 *   [Rust](#rust)
-*   [C#](#c-1)
 *   [Dart](#dart)
 *   [C](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -35,6 +35,96 @@
 *   [Pascal](#pascal)
 *   [Objective-C](#objective-c)
 *   [Markdown](#markdown)
+
+## C\#
+
+*   [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck) - Free, open-source Windows optimization tool for performance, privacy, and simplicity.
+
+*   [memstechtips/Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
+
+*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
+
+*   [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI application to analyze game files
+
+*   [mxzyTeam/EasytierUptime-CE](https://github.com/mxzyTeam/EasytierUptime-CE) -
+
+*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
+
+*   [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
+
+*   [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
+
+*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
+
+*   [hupo376787/WeiboAlbumDownloader](https://github.com/hupo376787/WeiboAlbumDownloader) - 微博相册下载工具C#版，批量采集指定微博账号下的所有图片/视频/LivePhoto。
+
+*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
+
+*   [leafOfTree/WindowTabs](https://github.com/leafOfTree/WindowTabs) - A utility that brings browser-style tabbed window management to the desktop.
+
+*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
+
+*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
+
+*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
+
+*   [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
+
+*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
+
+*   [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
+
+*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
+
+*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.
+
+*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
+
+*   [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
+
+*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
+
+*   [MisakaCirno/QQGroupRescueTool](https://github.com/MisakaCirno/QQGroupRescueTool) - QQ群抢救工具
+
+*   [flytkgl/PDFQFZ](https://github.com/flytkgl/PDFQFZ) - PDF加盖骑缝章的小工具
+
+*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
+
+*   [LeoChen98/BiliRaffle](https://github.com/LeoChen98/BiliRaffle) - B站动态抽奖组件
+
+*   [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring
+
+*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
+
+*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
+
+*   [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
+
+*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
+
+*   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
+
+*   [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
+
+*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
+
+*   [cuiliang/ClickShow](https://github.com/cuiliang/ClickShow) - 鼠标点击特效
+
+*   [snowman109/NetMoniter](https://github.com/snowman109/NetMoniter) - NetMoniter是一款集成翻译、图片识别功能的网速插件。
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
+
+*   [jollna/CameraWindow](https://github.com/jollna/CameraWindow) - 独立摄像头窗体
+
+*   [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) - A cute running cat animation on your windows taskbar.
+
+*   [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
+
+*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
+
+*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
 ## Python
 
@@ -664,8 +754,6 @@
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
-*   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-
 ## miscellaneous
 
 *   [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
@@ -880,8 +968,6 @@
 
 *   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
 
-*   [TranslucentTB/TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - A lightweight utility that makes the Windows taskbar translucent/transparent.
-
 ## Rust
 
 *   [QingJ01/Pebble](https://github.com/QingJ01/Pebble) - A small yet beautiful email client.
@@ -925,92 +1011,6 @@
 *   [KtzeAbyss/Easy-Virtual-Display](https://github.com/KtzeAbyss/Easy-Virtual-Display) - Effortlessly create virtual displays in Windows, capable of supporting various resolutions and refresh rates, suitable for remote control or graphics card spoofing.在win中轻松创建支持多种分辨率和刷新率的虚拟显示器，可用于远程控制或显卡欺骗。
 
 *   [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
-
-## C\#
-
-*   [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
-
-*   [AssetRipper/AssetRipper](https://github.com/AssetRipper/AssetRipper) - GUI application to analyze game files
-
-*   [mxzyTeam/EasytierUptime-CE](https://github.com/mxzyTeam/EasytierUptime-CE) -
-
-*   [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
-
-*   [SuperStudio/SuperCom](https://github.com/SuperStudio/SuperCom) - SuperCom 是一款串口调试工具
-
-*   [HolographicHat/Yae](https://github.com/HolographicHat/Yae) - 更快、更准的原神数据导出工具
-
-*   [Gaoyifei1011/GetStoreApp](https://github.com/Gaoyifei1011/GetStoreApp) - 离线下载 Microsoft Store 商店应用
-
-*   [hupo376787/WeiboAlbumDownloader](https://github.com/hupo376787/WeiboAlbumDownloader) - 微博相册下载工具C#版，批量采集指定微博账号下的所有图片/视频/LivePhoto。
-
-*   [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX) - RyTuneX is a cutting-edge optimizer built with the WinUI 3 framework, designed to amplify the performance of Windows devices. Crafted for both Windows 10 and 11.
-
-*   [leafOfTree/WindowTabs](https://github.com/leafOfTree/WindowTabs) - A utility that brings browser-style tabbed window management to the desktop.
-
-*   [ClassIsland/ClassIsland](https://github.com/ClassIsland/ClassIsland) - 一款功能强、可定制、跨平台，适用于班级多媒体屏幕的课表信息显示工具，可以一目了然地显示各种信息。
-
-*   [BornToBeRoot/NETworkManager](https://github.com/BornToBeRoot/NETworkManager) - A powerful open-source tool for managing networks and troubleshooting network problems!
-
-*   [Tyrrrz/LightBulb](https://github.com/Tyrrrz/LightBulb) - Reduces eye strain by adjusting screen gamma based on the current time
-
-*   [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
-
-*   [nilaoda/BBDown](https://github.com/nilaoda/BBDown) - Bilibili Downloader. 一个命令行式哔哩哔哩下载器.
-
-*   [character-map-uwp/Character-Map-UWP](https://github.com/character-map-uwp/Character-Map-UWP) - A modern, native UWP replacement for the Win32 Character Map and Windows Font Viewer with flawless high DPI and touch support.
-
-*   [babalae/better-genshin-impact](https://github.com/babalae/better-genshin-impact) - 📦BetterGI · 更好的原神 - 自动拾取 | 自动剧情 | 全自动钓鱼(AI) | 全自动七圣召唤 | 自动伐木 | 自动刷本 | 自动采集/挖矿/锄地 | 一条龙 | 全连音游 | 自动烹饪 - UI Automation Testing Tools For Genshin Impact
-
-*   [Archeb/opentrace](https://github.com/Archeb/opentrace) - Open Source Visualized Route Tracing Tool for macOS, Windows, and Linux.
-
-*   [zsh2401/AutumnBox](https://github.com/zsh2401/AutumnBox) - 图形化ADB工具箱
-
-*   [devnulli/EvlWatcher](https://github.com/devnulli/EvlWatcher) - a "fail2ban" style modular log file analyzer for windows
-
-*   [OdysseusYuan/LKY\_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools) - 一键自动化 下载、安装、激活 Office 的利器。
-
-*   [MisakaCirno/QQGroupRescueTool](https://github.com/MisakaCirno/QQGroupRescueTool) - QQ群抢救工具
-
-*   [flytkgl/PDFQFZ](https://github.com/flytkgl/PDFQFZ) - PDF加盖骑缝章的小工具
-
-*   [Planshit/Tai](https://github.com/Planshit/Tai) - 👻 在Windows上统计软件使用时长和网站浏览时长
-
-*   [LeoChen98/BiliRaffle](https://github.com/LeoChen98/BiliRaffle) - B站动态抽奖组件
-
-*   [uberhalit/EldenRingFpsUnlockAndMore](https://github.com/uberhalit/EldenRingFpsUnlockAndMore) - A small utility to remove frame rate limit, change FOV, add widescreen support and more for Elden Ring
-
-*   [Uahh/ToastFish](https://github.com/Uahh/ToastFish) - 一个利用摸鱼时间背单词的软件。
-
-*   [pdone/FreeControl](https://github.com/pdone/FreeControl) - 在PC上控制Android设备
-
-*   [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
-
-*   [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
-
-*   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
-
-*   [xiaoyaocz/biliuwp-lite](https://github.com/xiaoyaocz/biliuwp-lite) - 哔哩哔哩UWP Lite
-
-*   [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
-
-*   [cuiliang/ClickShow](https://github.com/cuiliang/ClickShow) - 鼠标点击特效
-
-*   [snowman109/NetMoniter](https://github.com/snowman109/NetMoniter) - NetMoniter是一款集成翻译、图片识别功能的网速插件。
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
-
-*   [jollna/CameraWindow](https://github.com/jollna/CameraWindow) - 独立摄像头窗体
-
-*   [runcat-dev/RunCat365](https://github.com/runcat-dev/RunCat365) - A cute running cat animation on your windows taskbar.
-
-*   [xupefei/Locale-Emulator](https://github.com/xupefei/Locale-Emulator) - Yet Another System Region and Language Simulator
-
-*   [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
-
-*   [nilaoda/N\_m3u8DL-CLI](https://github.com/nilaoda/N_m3u8DL-CLI) - \[.NET] m3u8 downloader 开源的命令行m3u8/HLS/dash下载器，支持普通AES-128-CBC解密，多线程，自定义请求头等. 支持简体中文,繁体中文和英文. English Supported.
 
 ## Dart
 
